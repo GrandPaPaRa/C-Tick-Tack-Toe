@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  Load.cpp
+  main.cpp
+  Meniu.cpp
+D:\VS Projects\VS Projects 2018\X si 0 (wew edition)\X si 0 (wew edition)\Meniu.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  X si 0 (wew edition).vcxproj -> D:\VS Projects\VS Projects 2018\X si 0 (wew edition)\Debug\X si 0 (wew edition).exe
